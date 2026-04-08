@@ -5,7 +5,7 @@
 | Name | Student ID | Email |
 | :---- | :---- | :---- |
 | Rayan Maknojia | 301467805 | rma120@sfu.ca |
-| Riya Maknojia | - | rma124@sfu.ca |
+| Riya Maknojia | 301563544 | rma124@sfu.ca |
 
 ## 📌 Overview
 
@@ -26,8 +26,13 @@ The game ensures synchronized gameplay using a JSON-based protocol and multithre
 * JSON-based communication protocol
 * Multithreaded server (1 thread per game session)
 
-🎥 Video Demo
+
+
+## 🎥 Video Demo
+<span style="color: purple;"></span>  
 A 2 minute demonstration of the multiplayer trivia game is provided below.
+[**▶️ Watch Project Demo on YouTube**](https://youtu.be/xBg7UqnZEZQ)
+
 
 
 ## 🧠 Architecture
